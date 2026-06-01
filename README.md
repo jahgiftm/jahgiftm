@@ -1,4 +1,4 @@
-# Hi, I'm Jah-Gift 👋
+# Hi, I'm Jah-Gift!
 
 Computer Science student at VCU interested in Linux administration, systems engineering, cybersecurity, and software development.
 
