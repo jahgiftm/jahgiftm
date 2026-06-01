@@ -19,8 +19,10 @@ Computer Science student at VCU interested in Linux administration, systems engi
 - Bash
 - JavaScript
 - GitHub
+- VirtualBox
 
 ## Current Projects
 
 - Linux Home Lab
 - RHCSA Practice Labs
+- Systems Programmning Projetcs
